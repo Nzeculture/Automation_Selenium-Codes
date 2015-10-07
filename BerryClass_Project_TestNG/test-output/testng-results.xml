@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="9" passed="9">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="164212" started-at="2015-10-01T12:34:56Z" finished-at="2015-10-01T12:37:40Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="164212" started-at="2015-10-01T12:34:56Z" finished-at="2015-10-01T12:37:40Z">
+      <class name="com.liveguru_TestNG.RunnerTest">
+        <test-method status="PASS" signature="setUp()" name="setUp" is-config="true" duration-ms="16056" started-at="2015-10-01T12:34:56Z" finished-at="2015-10-01T12:35:12Z">
+        </test-method>
+        <test-method status="PASS" signature="testLoginFunctionality(java.lang.String, java.lang.String, java.lang.String)" name="testLoginFunctionality" duration-ms="2664" started-at="2015-10-01T12:35:12Z" finished-at="2015-10-01T12:35:15Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[234dotus@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[password123]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Donald]]>
+              </value>
+            </param>
+          </params>
+        </test-method>
+        <test-method status="PASS" signature="closeBrowser()" name="closeBrowser" is-config="true" duration-ms="662" started-at="2015-10-01T12:35:15Z" finished-at="2015-10-01T12:35:15Z">
+        </test-method>
+        <test-method status="PASS" signature="setUp()" name="setUp" is-config="true" duration-ms="11430" started-at="2015-10-01T12:35:15Z" finished-at="2015-10-01T12:35:27Z">
+        </test-method>
+        <test-method status="PASS" signature="testLoginFunctionality(java.lang.String, java.lang.String, java.lang.String)" name="testLoginFunctionality" duration-ms="2335" started-at="2015-10-01T12:35:27Z" finished-at="2015-10-01T12:35:29Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[234dotus@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[password123jghg]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Invalid login or password.]]>
+              </value>
+            </param>
+          </params>
+        </test-method>
+        <test-method status="PASS" signature="closeBrowser()" name="closeBrowser" is-config="true" duration-ms="559" started-at="2015-10-01T12:35:29Z" finished-at="2015-10-01T12:35:30Z">
+        </test-method>
+        <test-method status="PASS" signature="setUp()" name="setUp" is-config="true" duration-ms="11526" started-at="2015-10-01T12:35:30Z" finished-at="2015-10-01T12:35:41Z">
+        </test-method>
+        <test-method status="PASS" signature="testLoginFunctionality(java.lang.String, java.lang.String, java.lang.String)" name="testLoginFunctionality" duration-ms="2444" started-at="2015-10-01T12:35:41Z" finished-at="2015-10-01T12:35:44Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[234hfjahsfdotus@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[password123]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Invalid login or password.]]>
+              </value>
+            </param>
+          </params>
+        </test-method>
+        <test-method status="PASS" signature="closeBrowser()" name="closeBrowser" is-config="true" duration-ms="540" started-at="2015-10-01T12:35:44Z" finished-at="2015-10-01T12:35:44Z">
+        </test-method>
+        <test-method status="PASS" signature="setUp()" name="setUp" is-config="true" duration-ms="15749" started-at="2015-10-01T12:35:44Z" finished-at="2015-10-01T12:36:00Z">
+        </test-method>
+        <test-method status="PASS" signature="testLoginFunctionality(java.lang.String, java.lang.String, java.lang.String)" name="testLoginFunctionality" duration-ms="2138" started-at="2015-10-01T12:36:00Z" finished-at="2015-10-01T12:36:02Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[234hfjahsfdotus@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[password123jghg]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Invalid login or password.]]>
+              </value>
+            </param>
+          </params>
+        </test-method>
+        <test-method status="PASS" signature="closeBrowser()" name="closeBrowser" is-config="true" duration-ms="551" started-at="2015-10-01T12:36:02Z" finished-at="2015-10-01T12:36:03Z">
+        </test-method>
+        <test-method status="PASS" signature="setUp()" name="setUp" is-config="true" duration-ms="15846" started-at="2015-10-01T12:36:03Z" finished-at="2015-10-01T12:36:19Z">
+        </test-method>
+        <test-method status="PASS" signature="testLoginFunctionality(java.lang.String, java.lang.String, java.lang.String)" name="testLoginFunctionality" duration-ms="911" started-at="2015-10-01T12:36:19Z" finished-at="2015-10-01T12:36:20Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[         ]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[password123]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Login]]>
+              </value>
+            </param>
+          </params>
+        </test-method>
+        <test-method status="PASS" signature="closeBrowser()" name="closeBrowser" is-config="true" duration-ms="523" started-at="2015-10-01T12:36:20Z" finished-at="2015-10-01T12:36:20Z">
+        </test-method>
+        <test-method status="PASS" signature="setUp()" name="setUp" is-config="true" duration-ms="15485" started-at="2015-10-01T12:36:20Z" finished-at="2015-10-01T12:36:36Z">
+        </test-method>
+        <test-method status="PASS" signature="testLoginFunctionality(java.lang.String, java.lang.String, java.lang.String)" name="testLoginFunctionality" duration-ms="1088" started-at="2015-10-01T12:36:36Z" finished-at="2015-10-01T12:36:37Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[         ]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[password123jghg]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Login]]>
+              </value>
+            </param>
+          </params>
+        </test-method>
+        <test-method status="PASS" signature="closeBrowser()" name="closeBrowser" is-config="true" duration-ms="988" started-at="2015-10-01T12:36:37Z" finished-at="2015-10-01T12:36:38Z">
+        </test-method>
+        <test-method status="PASS" signature="setUp()" name="setUp" is-config="true" duration-ms="11796" started-at="2015-10-01T12:36:38Z" finished-at="2015-10-01T12:36:49Z">
+        </test-method>
+        <test-method status="PASS" signature="testLoginFunctionality(java.lang.String, java.lang.String, java.lang.String)" name="testLoginFunctionality" duration-ms="1553" started-at="2015-10-01T12:36:49Z" finished-at="2015-10-01T12:36:51Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[234dotus@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[     ]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Login]]>
+              </value>
+            </param>
+          </params>
+        </test-method>
+        <test-method status="PASS" signature="closeBrowser()" name="closeBrowser" is-config="true" duration-ms="497" started-at="2015-10-01T12:36:51Z" finished-at="2015-10-01T12:36:51Z">
+        </test-method>
+        <test-method status="PASS" signature="setUp()" name="setUp" is-config="true" duration-ms="30768" started-at="2015-10-01T12:36:51Z" finished-at="2015-10-01T12:37:22Z">
+        </test-method>
+        <test-method status="PASS" signature="testLoginFunctionality(java.lang.String, java.lang.String, java.lang.String)" name="testLoginFunctionality" duration-ms="1997" started-at="2015-10-01T12:37:22Z" finished-at="2015-10-01T12:37:24Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[234hfjahsfdotus@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[     ]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Login]]>
+              </value>
+            </param>
+          </params>
+        </test-method>
+        <test-method status="PASS" signature="closeBrowser()" name="closeBrowser" is-config="true" duration-ms="519" started-at="2015-10-01T12:37:24Z" finished-at="2015-10-01T12:37:25Z">
+        </test-method>
+        <test-method status="PASS" signature="setUp()" name="setUp" is-config="true" duration-ms="13939" started-at="2015-10-01T12:37:25Z" finished-at="2015-10-01T12:37:39Z">
+        </test-method>
+        <test-method status="PASS" signature="testLoginFunctionality(java.lang.String, java.lang.String, java.lang.String)" name="testLoginFunctionality" duration-ms="923" started-at="2015-10-01T12:37:39Z" finished-at="2015-10-01T12:37:40Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[    ]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[     ]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Login]]>
+              </value>
+            </param>
+          </params>
+        </test-method>
+        <test-method status="PASS" signature="closeBrowser()" name="closeBrowser" is-config="true" duration-ms="696" started-at="2015-10-01T12:37:40Z" finished-at="2015-10-01T12:37:40Z">
+        </test-method>
+      </class>
+    </test>
+  </suite>
+</testng-results>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite hostname="BLESSING" name="com.liveguru_TestNG.RunnerTest" tests="9" failures="0" timestamp="1 Oct 2015 18:37:40 GMT" time="164.212" errors="0">
+  <testcase name="testLoginFunctionality" time="2.664" classname="com.liveguru_TestNG.RunnerTest"/>
+  <testcase name="testLoginFunctionality" time="2.335" classname="com.liveguru_TestNG.RunnerTest"/>
+  <testcase name="testLoginFunctionality" time="2.444" classname="com.liveguru_TestNG.RunnerTest"/>
+  <testcase name="testLoginFunctionality" time="2.138" classname="com.liveguru_TestNG.RunnerTest"/>
+  <testcase name="testLoginFunctionality" time="0.911" classname="com.liveguru_TestNG.RunnerTest"/>
+  <testcase name="testLoginFunctionality" time="1.088" classname="com.liveguru_TestNG.RunnerTest"/>
+  <testcase name="testLoginFunctionality" time="1.553" classname="com.liveguru_TestNG.RunnerTest"/>
+  <testcase name="testLoginFunctionality" time="1.997" classname="com.liveguru_TestNG.RunnerTest"/>
+  <testcase name="testLoginFunctionality" time="0.923" classname="com.liveguru_TestNG.RunnerTest"/>
+</testsuite>
