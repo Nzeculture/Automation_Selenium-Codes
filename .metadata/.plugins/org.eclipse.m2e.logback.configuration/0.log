@@ -1,0 +1,216 @@
+2015-10-14 10:59:50,300 [Worker-12] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.liveguru-testng:BerryClasssProjectTestNG:0.0.1-SNAPSHOT @ C:\JavaProject\Git Repository\Automation_Selenium-Codes\BerryClasssProjectlog4j\pom.xml.
+2015-10-14 10:59:55,535 [Worker-12] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /BerryClasssProjectTestNG/src/main/java
+2015-10-14 10:59:55,535 [Worker-12] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /BerryClasssProjectTestNG/src/main/resources
+2015-10-14 10:59:55,961 [Worker-12] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /BerryClasssProjectTestNG/src/test/java
+2015-10-14 10:59:56,538 [Worker-12] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 11 sec
+2015-10-14 10:59:58,909 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-14 10:59:58,914 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2015-10-14 10:59:59,069 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-14 10:59:59,070 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\JavaProject\Git Repository\Automation_Selenium-Codes\BerryClasssProjectlog4j\src\test\resources
+2015-10-14 11:00:44,580 [Worker-16] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.liveguru_TestNG:BerryClass_Project_TestNG:0.0.1-SNAPSHOT @ C:\JavaProject\Git Repository\Automation_Selenium-Codes\BerryClass_Project_TestNG\pom.xml.
+2015-10-14 11:00:45,990 [Worker-16] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /BerryClass_Project_TestNG/src/main/java
+2015-10-14 11:00:45,991 [Worker-16] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /BerryClass_Project_TestNG/src/test/java
+2015-10-14 11:00:46,102 [Worker-16] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 1 sec
+2015-10-14 11:00:47,398 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-14 11:00:47,398 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\JavaProject\Git Repository\Automation_Selenium-Codes\BerryClass_Project_TestNG\src\main\resources
+2015-10-14 11:00:47,400 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-14 11:00:47,400 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\JavaProject\Git Repository\Automation_Selenium-Codes\BerryClass_Project_TestNG\src\test\resources
+2015-10-14 11:00:47,602 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-14 11:00:47,615 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2015-10-14 11:00:47,744 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-14 11:00:47,745 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\JavaProject\Git Repository\Automation_Selenium-Codes\BerryClasssProjectlog4j\src\test\resources
+2015-10-14 11:02:13,250 [Worker-1] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: Project_2015:EzeoforProject2015:0.0.1-SNAPSHOT @ C:\JavaProject\Git Repository\Automation_Selenium-Codes\EzeoforProject2015\pom.xml.
+2015-10-14 11:02:14,250 [Worker-1] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /EzeoforProject2015/src/main/java
+2015-10-14 11:02:14,251 [Worker-1] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /EzeoforProject2015/src/test/java
+2015-10-14 11:02:14,350 [Worker-1] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 1 sec
+2015-10-14 11:02:15,420 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-14 11:02:15,420 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\JavaProject\Git Repository\Automation_Selenium-Codes\EzeoforProject2015\src\main\resources
+2015-10-14 11:02:15,422 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-14 11:02:15,422 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\JavaProject\Git Repository\Automation_Selenium-Codes\EzeoforProject2015\src\test\resources
+2015-10-14 11:05:33,594 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-14 11:05:33,594 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\JavaProject\Git Repository\Automation_Selenium-Codes\BerryClass_Project_TestNG\src\main\resources
+2015-10-14 11:05:33,596 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-14 11:05:33,596 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\JavaProject\Git Repository\Automation_Selenium-Codes\BerryClass_Project_TestNG\src\test\resources
+2015-10-14 11:05:33,607 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-14 11:05:33,608 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-10-14 11:05:33,609 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-14 11:05:33,610 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\JavaProject\Git Repository\Automation_Selenium-Codes\BerryClasssProjectlog4j\src\test\resources
+2015-10-14 11:05:33,620 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-14 11:05:33,620 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\JavaProject\Git Repository\Automation_Selenium-Codes\EzeoforProject2015\src\main\resources
+2015-10-14 11:05:33,622 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-14 11:05:33,622 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\JavaProject\Git Repository\Automation_Selenium-Codes\EzeoforProject2015\src\test\resources
+2015-10-14 11:06:19,693 [Worker-16] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\JavaProject\Git Repository\Automation_Selenium-Codes\EzeoforProject2015
+2015-10-14 11:06:19,695 [Worker-16] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B test
+2015-10-14 11:06:24,688 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-14 11:06:24,688 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\JavaProject\Git Repository\Automation_Selenium-Codes\EzeoforProject2015\src\main\resources
+2015-10-14 11:06:24,692 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-14 11:06:24,692 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\JavaProject\Git Repository\Automation_Selenium-Codes\EzeoforProject2015\src\test\resources
+2015-10-14 11:06:34,912 [Worker-10] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\JavaProject\Git Repository\Automation_Selenium-Codes\EzeoforProject2015
+2015-10-14 11:06:34,912 [Worker-10] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B clean
+2015-10-14 11:06:37,266 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-14 11:06:37,266 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\JavaProject\Git Repository\Automation_Selenium-Codes\EzeoforProject2015\src\main\resources
+2015-10-14 11:06:37,268 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-14 11:06:37,268 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\JavaProject\Git Repository\Automation_Selenium-Codes\EzeoforProject2015\src\test\resources
+2015-10-14 11:06:46,259 [Worker-1] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\JavaProject\Git Repository\Automation_Selenium-Codes\EzeoforProject2015
+2015-10-14 11:06:46,259 [Worker-1] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B install
+2015-10-14 11:06:50,421 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-14 11:06:50,423 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\JavaProject\Git Repository\Automation_Selenium-Codes\EzeoforProject2015\src\main\resources
+2015-10-14 11:06:50,431 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-14 11:06:50,432 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\JavaProject\Git Repository\Automation_Selenium-Codes\EzeoforProject2015\src\test\resources
+2015-10-14 11:07:03,262 [Worker-17] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2015-10-14 11:07:04,129 [Worker-17] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: Project_2015:EzeoforProject2015:0.0.1-SNAPSHOT @ C:\JavaProject\Git Repository\Automation_Selenium-Codes\EzeoforProject2015\pom.xml.
+2015-10-14 11:07:04,663 [Worker-17] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.liveguru_TestNG:BerryClass_Project_TestNG:0.0.1-SNAPSHOT @ C:\JavaProject\Git Repository\Automation_Selenium-Codes\BerryClass_Project_TestNG\pom.xml.
+2015-10-14 11:07:04,923 [Worker-17] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.liveguru-testng:BerryClasssProjectTestNG:0.0.1-SNAPSHOT @ C:\JavaProject\Git Repository\Automation_Selenium-Codes\BerryClasssProjectlog4j\pom.xml.
+2015-10-14 11:07:06,002 [Worker-17] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /EzeoforProject2015/src/main/java
+2015-10-14 11:07:06,003 [Worker-17] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /EzeoforProject2015/src/test/java
+2015-10-14 11:07:06,240 [Worker-17] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 2 sec
+2015-10-14 11:07:07,134 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-14 11:07:07,135 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\JavaProject\Git Repository\Automation_Selenium-Codes\BerryClass_Project_TestNG\src\main\resources
+2015-10-14 11:07:07,141 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-14 11:07:07,143 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\JavaProject\Git Repository\Automation_Selenium-Codes\BerryClass_Project_TestNG\src\test\resources
+2015-10-14 11:07:07,830 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-14 11:07:07,837 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-10-14 11:07:07,842 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-14 11:07:07,843 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\JavaProject\Git Repository\Automation_Selenium-Codes\BerryClasssProjectlog4j\src\test\resources
+2015-10-14 11:07:08,483 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-14 11:07:08,483 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\JavaProject\Git Repository\Automation_Selenium-Codes\EzeoforProject2015\src\main\resources
+2015-10-14 11:07:08,485 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-14 11:07:08,485 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\JavaProject\Git Repository\Automation_Selenium-Codes\EzeoforProject2015\src\test\resources
+2015-10-14 11:07:14,883 [Worker-5] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\JavaProject\Git Repository\Automation_Selenium-Codes\EzeoforProject2015
+2015-10-14 11:07:14,883 [Worker-5] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B install
+2015-10-14 11:07:20,045 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-14 11:07:20,046 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\JavaProject\Git Repository\Automation_Selenium-Codes\EzeoforProject2015\src\main\resources
+2015-10-14 11:07:20,049 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-14 11:07:20,049 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\JavaProject\Git Repository\Automation_Selenium-Codes\EzeoforProject2015\src\test\resources
+2015-10-14 11:07:37,183 [Worker-1] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2015-10-14 11:07:37,298 [Worker-1] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: Project_2015:EzeoforProject2015:0.0.1-SNAPSHOT @ C:\JavaProject\Git Repository\Automation_Selenium-Codes\EzeoforProject2015\pom.xml.
+2015-10-14 11:07:38,069 [Worker-1] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /EzeoforProject2015/src/main/java
+2015-10-14 11:07:38,070 [Worker-1] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /EzeoforProject2015/src/test/java
+2015-10-14 11:07:38,237 [Worker-1] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 1 sec
+2015-10-14 11:07:38,947 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-14 11:07:38,947 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\JavaProject\Git Repository\Automation_Selenium-Codes\EzeoforProject2015\src\main\resources
+2015-10-14 11:07:38,948 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-14 11:07:38,948 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\JavaProject\Git Repository\Automation_Selenium-Codes\EzeoforProject2015\src\test\resources
+2015-10-14 11:07:43,853 [Worker-18] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\JavaProject\Git Repository\Automation_Selenium-Codes\EzeoforProject2015
+2015-10-14 11:07:43,853 [Worker-18] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B clean
+2015-10-14 11:07:46,220 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-14 11:07:46,221 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\JavaProject\Git Repository\Automation_Selenium-Codes\EzeoforProject2015\src\main\resources
+2015-10-14 11:07:46,227 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-14 11:07:46,228 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\JavaProject\Git Repository\Automation_Selenium-Codes\EzeoforProject2015\src\test\resources
+2015-10-14 11:08:03,724 [Worker-10] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\JavaProject\Git Repository\Automation_Selenium-Codes\EzeoforProject2015
+2015-10-14 11:08:03,725 [Worker-10] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B test
+2015-10-14 11:08:07,887 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-14 11:08:07,888 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\JavaProject\Git Repository\Automation_Selenium-Codes\EzeoforProject2015\src\main\resources
+2015-10-14 11:08:07,890 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-14 11:08:07,891 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\JavaProject\Git Repository\Automation_Selenium-Codes\EzeoforProject2015\src\test\resources
+2015-10-14 11:08:25,963 [Worker-1] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2015-10-14 11:08:26,739 [Worker-1] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: Project_2015:EzeoforProject2015:0.0.1-SNAPSHOT @ C:\JavaProject\Git Repository\Automation_Selenium-Codes\EzeoforProject2015\pom.xml.
+2015-10-14 11:08:27,312 [Worker-1] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.liveguru_TestNG:BerryClass_Project_TestNG:0.0.1-SNAPSHOT @ C:\JavaProject\Git Repository\Automation_Selenium-Codes\BerryClass_Project_TestNG\pom.xml.
+2015-10-14 11:08:27,561 [Worker-1] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.liveguru-testng:BerryClasssProjectTestNG:0.0.1-SNAPSHOT @ C:\JavaProject\Git Repository\Automation_Selenium-Codes\BerryClasssProjectlog4j\pom.xml.
+2015-10-14 11:08:28,924 [Worker-1] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /EzeoforProject2015/src/main/java
+2015-10-14 11:08:28,925 [Worker-1] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /EzeoforProject2015/src/test/java
+2015-10-14 11:08:29,183 [Worker-1] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 3 sec
+2015-10-14 11:08:29,959 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-14 11:08:29,959 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\JavaProject\Git Repository\Automation_Selenium-Codes\BerryClass_Project_TestNG\src\main\resources
+2015-10-14 11:08:29,961 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-14 11:08:29,961 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\JavaProject\Git Repository\Automation_Selenium-Codes\BerryClass_Project_TestNG\src\test\resources
+2015-10-14 11:08:30,528 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-14 11:08:30,536 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-10-14 11:08:30,540 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-14 11:08:30,541 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\JavaProject\Git Repository\Automation_Selenium-Codes\BerryClasssProjectlog4j\src\test\resources
+2015-10-14 11:08:31,230 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-14 11:08:31,231 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\JavaProject\Git Repository\Automation_Selenium-Codes\EzeoforProject2015\src\main\resources
+2015-10-14 11:08:31,233 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-14 11:08:31,234 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\JavaProject\Git Repository\Automation_Selenium-Codes\EzeoforProject2015\src\test\resources
+2015-10-14 11:08:32,793 [Worker-17] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\JavaProject\Git Repository\Automation_Selenium-Codes\EzeoforProject2015
+2015-10-14 11:08:32,793 [Worker-17] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B test
+2015-10-14 11:08:36,848 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-14 11:08:36,848 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\JavaProject\Git Repository\Automation_Selenium-Codes\EzeoforProject2015\src\main\resources
+2015-10-14 11:08:36,851 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-14 11:08:36,852 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\JavaProject\Git Repository\Automation_Selenium-Codes\EzeoforProject2015\src\test\resources
+2015-10-14 11:10:05,746 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-14 11:10:05,747 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\JavaProject\Git Repository\Automation_Selenium-Codes\BerryClass_Project_TestNG\src\main\resources
+2015-10-14 11:10:05,748 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-14 11:10:05,748 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\JavaProject\Git Repository\Automation_Selenium-Codes\BerryClass_Project_TestNG\src\test\resources
+2015-10-14 11:10:05,864 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-14 11:10:05,867 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2015-10-14 11:10:05,943 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-14 11:10:05,943 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\JavaProject\Git Repository\Automation_Selenium-Codes\BerryClasssProjectlog4j\src\test\resources
+2015-10-14 11:10:06,027 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-14 11:10:06,027 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\JavaProject\Git Repository\Automation_Selenium-Codes\EzeoforProject2015\src\main\resources
+2015-10-14 11:10:06,028 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-14 11:10:06,028 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\JavaProject\Git Repository\Automation_Selenium-Codes\EzeoforProject2015\src\test\resources
+2015-10-14 11:10:15,081 [Worker-5] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\JavaProject\Git Repository\Automation_Selenium-Codes\EzeoforProject2015
+2015-10-14 11:10:15,081 [Worker-5] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B install
+2015-10-14 11:13:09,413 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-14 11:13:09,414 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\JavaProject\Git Repository\Automation_Selenium-Codes\EzeoforProject2015\src\main\resources
+2015-10-14 11:13:09,420 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-14 11:13:09,420 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\JavaProject\Git Repository\Automation_Selenium-Codes\EzeoforProject2015\src\test\resources
+2015-10-14 11:14:55,297 [Worker-2] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\JavaProject\Git Repository\Automation_Selenium-Codes\EzeoforProject2015
+2015-10-14 11:14:55,297 [Worker-2] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B install
+2015-10-14 11:17:20,963 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-14 11:17:20,964 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\JavaProject\Git Repository\Automation_Selenium-Codes\EzeoforProject2015\src\main\resources
+2015-10-14 11:17:20,968 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-14 11:17:20,969 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\JavaProject\Git Repository\Automation_Selenium-Codes\EzeoforProject2015\src\test\resources
+2015-10-14 11:22:12,674 [Worker-8] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\JavaProject\Git Repository\Automation_Selenium-Codes\BerryClasssProjectlog4j
+2015-10-14 11:22:12,674 [Worker-8] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B install
+2015-10-14 11:22:18,233 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-14 11:22:18,234 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-10-14 11:22:18,238 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-14 11:22:18,238 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\JavaProject\Git Repository\Automation_Selenium-Codes\BerryClasssProjectlog4j\src\test\resources
+2015-10-14 11:22:34,166 [Worker-1] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\JavaProject\Git Repository\Automation_Selenium-Codes\BerryClasssProjectlog4j
+2015-10-14 11:22:34,166 [Worker-1] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B clean
+2015-10-14 11:22:36,643 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-14 11:22:36,645 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2015-10-14 11:22:36,655 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-14 11:22:36,656 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\JavaProject\Git Repository\Automation_Selenium-Codes\BerryClasssProjectlog4j\src\test\resources
+2015-10-14 11:22:44,632 [Worker-18] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\JavaProject\Git Repository\Automation_Selenium-Codes\BerryClasssProjectlog4j
+2015-10-14 11:22:44,632 [Worker-18] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B install
+2015-10-14 11:22:49,805 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-14 11:22:49,806 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-10-14 11:22:49,808 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-14 11:22:49,809 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\JavaProject\Git Repository\Automation_Selenium-Codes\BerryClasssProjectlog4j\src\test\resources
+2015-10-14 11:23:04,921 [Worker-8] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2015-10-14 11:23:05,599 [Worker-8] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.liveguru-testng:BerryClasssProjectTestNG:0.0.1-SNAPSHOT @ C:\JavaProject\Git Repository\Automation_Selenium-Codes\BerryClasssProjectlog4j\pom.xml.
+2015-10-14 11:23:06,236 [Worker-8] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.liveguru_TestNG:BerryClass_Project_TestNG:0.0.1-SNAPSHOT @ C:\JavaProject\Git Repository\Automation_Selenium-Codes\BerryClass_Project_TestNG\pom.xml.
+2015-10-14 11:23:06,455 [Worker-8] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: Project_2015:EzeoforProject2015:0.0.1-SNAPSHOT @ C:\JavaProject\Git Repository\Automation_Selenium-Codes\EzeoforProject2015\pom.xml.
+2015-10-14 11:23:07,362 [Worker-8] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /BerryClasssProjectTestNG/src/main/java
+2015-10-14 11:23:07,363 [Worker-8] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /BerryClasssProjectTestNG/src/main/resources
+2015-10-14 11:23:07,364 [Worker-8] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /BerryClasssProjectTestNG/src/test/java
+2015-10-14 11:23:07,695 [Worker-8] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 2 sec
+2015-10-14 11:23:08,433 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-14 11:23:08,433 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\JavaProject\Git Repository\Automation_Selenium-Codes\BerryClass_Project_TestNG\src\main\resources
+2015-10-14 11:23:08,435 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-14 11:23:08,435 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\JavaProject\Git Repository\Automation_Selenium-Codes\BerryClass_Project_TestNG\src\test\resources
+2015-10-14 11:23:09,119 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-14 11:23:09,121 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2015-10-14 11:23:09,155 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-14 11:23:09,156 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\JavaProject\Git Repository\Automation_Selenium-Codes\BerryClasssProjectlog4j\src\test\resources
+2015-10-14 11:23:09,632 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-14 11:23:09,632 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\JavaProject\Git Repository\Automation_Selenium-Codes\EzeoforProject2015\src\main\resources
+2015-10-14 11:23:09,633 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-14 11:23:09,633 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\JavaProject\Git Repository\Automation_Selenium-Codes\EzeoforProject2015\src\test\resources
+2015-10-14 11:23:13,887 [Worker-18] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\JavaProject\Git Repository\Automation_Selenium-Codes\BerryClasssProjectlog4j
+2015-10-14 11:23:13,888 [Worker-18] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B install
+2015-10-14 11:23:28,263 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-14 11:23:28,265 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-10-14 11:23:28,267 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-14 11:23:28,268 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\JavaProject\Git Repository\Automation_Selenium-Codes\BerryClasssProjectlog4j\src\test\resources
+2015-10-14 11:23:42,953 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-14 11:23:42,953 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\JavaProject\Git Repository\Automation_Selenium-Codes\BerryClass_Project_TestNG\src\main\resources
+2015-10-14 11:23:42,954 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-14 11:23:42,954 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\JavaProject\Git Repository\Automation_Selenium-Codes\BerryClass_Project_TestNG\src\test\resources
+2015-10-14 11:23:42,963 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-14 11:23:42,964 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-10-14 11:23:42,965 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-14 11:23:42,965 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\JavaProject\Git Repository\Automation_Selenium-Codes\BerryClasssProjectlog4j\src\test\resources
+2015-10-14 11:23:42,974 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-14 11:23:42,974 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\JavaProject\Git Repository\Automation_Selenium-Codes\EzeoforProject2015\src\main\resources
+2015-10-14 11:23:42,975 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-14 11:23:42,975 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\JavaProject\Git Repository\Automation_Selenium-Codes\EzeoforProject2015\src\test\resources
+2015-10-14 11:23:55,023 [Worker-17] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\JavaProject\Git Repository\Automation_Selenium-Codes\BerryClasssProjectlog4j
+2015-10-14 11:23:55,023 [Worker-17] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B test
+2015-10-14 11:24:09,370 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-14 11:24:09,371 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-10-14 11:24:09,374 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-14 11:24:09,374 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\JavaProject\Git Repository\Automation_Selenium-Codes\BerryClasssProjectlog4j\src\test\resources

@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite hostname="BLESSING" name="com.liveguru_TestNG.RunnerTest" tests="9" failures="0" timestamp="6 Oct 2015 17:58:36 GMT" time="199.406" errors="0">
-  <testcase name="testLoginFunctionality" time="2.43" classname="com.liveguru_TestNG.RunnerTest"/>
-  <testcase name="testLoginFunctionality" time="3.278" classname="com.liveguru_TestNG.RunnerTest"/>
-  <testcase name="testLoginFunctionality" time="2.199" classname="com.liveguru_TestNG.RunnerTest"/>
-  <testcase name="testLoginFunctionality" time="2.231" classname="com.liveguru_TestNG.RunnerTest"/>
-  <testcase name="testLoginFunctionality" time="0.975" classname="com.liveguru_TestNG.RunnerTest"/>
-  <testcase name="testLoginFunctionality" time="0.913" classname="com.liveguru_TestNG.RunnerTest"/>
-  <testcase name="testLoginFunctionality" time="2.062" classname="com.liveguru_TestNG.RunnerTest"/>
-  <testcase name="testLoginFunctionality" time="1.819" classname="com.liveguru_TestNG.RunnerTest"/>
-  <testcase name="testLoginFunctionality" time="0.915" classname="com.liveguru_TestNG.RunnerTest"/>
+<testsuite hostname="BLESSING" name="com.liveguru_TestNG.RunnerTest" tests="9" failures="0" timestamp="7 Oct 2015 17:23:45 GMT" time="132.214" errors="0">
+  <testcase name="testLoginFunctionality" time="3.144" classname="com.liveguru_TestNG.RunnerTest"/>
+  <testcase name="testLoginFunctionality" time="2.254" classname="com.liveguru_TestNG.RunnerTest"/>
+  <testcase name="testLoginFunctionality" time="2.052" classname="com.liveguru_TestNG.RunnerTest"/>
+  <testcase name="testLoginFunctionality" time="2.094" classname="com.liveguru_TestNG.RunnerTest"/>
+  <testcase name="testLoginFunctionality" time="0.841" classname="com.liveguru_TestNG.RunnerTest"/>
+  <testcase name="testLoginFunctionality" time="0.899" classname="com.liveguru_TestNG.RunnerTest"/>
+  <testcase name="testLoginFunctionality" time="1.473" classname="com.liveguru_TestNG.RunnerTest"/>
+  <testcase name="testLoginFunctionality" time="3.629" classname="com.liveguru_TestNG.RunnerTest"/>
+  <testcase name="testLoginFunctionality" time="0.94" classname="com.liveguru_TestNG.RunnerTest"/>
 </testsuite>
