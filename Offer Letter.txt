@@ -1,3 +1,0 @@
-Welcome to git version control system...
-
-Git is a comtemporary scm tool.
