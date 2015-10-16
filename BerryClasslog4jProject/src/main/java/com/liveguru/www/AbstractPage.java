@@ -22,7 +22,7 @@ public class AbstractPage {
 		this.driver = driver;
 				
 		try {
-			fis = new FileInputStream("C:\\JavaProject\\workspace\\BerryClasssProjectlog4j\\src\\main\\resources\\testDataRepo.properties");
+			fis = new FileInputStream("C:\\JavaProject\\GitHub_Projects\\automation_selenium_code_repo\\BerryClasslog4jProject\\src\\main\\resources\\testDataRepo.properties");
 		} catch (FileNotFoundException e) {
 			// TODO Auto-generated catch block
 			e.printStackTrace();
