@@ -1,0 +1,9 @@
+16/10/2015 17:14:10 [TestLogger][  INFO]:- Browser opened and  maximize successfully
+16/10/2015 17:14:12 [TestLogger][  INFO]:- BaseUrl loaded successfully
+16/10/2015 17:14:13 [TestLogger][  INFO]:- Account Page opened successfully
+16/10/2015 17:14:13 [TestLogger][  INFO]:- Username entered successfully
+16/10/2015 17:14:13 [TestLogger][  INFO]:- Password entered successfully
+16/10/2015 17:14:14 [TestLogger][  INFO]:- Login button clicked
+16/10/2015 17:14:14 [TestLogger][  INFO]:- Page verification is successful
+16/10/2015 17:14:15 [TestLogger][  INFO]:- Browser closed successfuly
+16/10/2015 17:14:15 [TestLogger][  INFO]:- Browser has no value
