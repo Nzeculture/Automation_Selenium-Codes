@@ -47,7 +47,7 @@ public class AbstractPage {
 	
 	public void teardownbrowser(){
 		driver.quit();
-		logger.info("Browser closed successfuly");
+		logger.info("Browser closed successfully");
 		driver = null;
 		logger.info("Browser has no value");
 	}
