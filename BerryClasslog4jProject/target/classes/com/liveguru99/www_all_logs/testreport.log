@@ -1,9 +1,9 @@
-22/10/2015 15:03:33 [TestLogger][  INFO]:- Browser opened and  maximize successfully
-22/10/2015 15:03:35 [TestLogger][  INFO]:- BaseUrl loaded successfully
-22/10/2015 15:03:36 [TestLogger][  INFO]:- Account Page opened successfully
-22/10/2015 15:03:36 [TestLogger][  INFO]:- Username entered successfully
-22/10/2015 15:03:36 [TestLogger][  INFO]:- Password entered successfully
-22/10/2015 15:03:38 [TestLogger][  INFO]:- Login button clicked
-22/10/2015 15:03:38 [TestLogger][  INFO]:- Page verification is successful
-22/10/2015 15:03:39 [TestLogger][  INFO]:- Browser closed successfully
-22/10/2015 15:03:39 [TestLogger][  INFO]:- Browser has no value
+22/10/2015 15:07:08 [TestLogger][  INFO]:- Browser opened and  maximize successfully
+22/10/2015 15:07:11 [TestLogger][  INFO]:- BaseUrl loaded successfully
+22/10/2015 15:07:12 [TestLogger][  INFO]:- Account Page opened successfully
+22/10/2015 15:07:12 [TestLogger][  INFO]:- Username entered successfully
+22/10/2015 15:07:13 [TestLogger][  INFO]:- Password entered successfully
+22/10/2015 15:07:14 [TestLogger][  INFO]:- Login button clicked
+22/10/2015 15:07:14 [TestLogger][  INFO]:- Page verification is successful
+22/10/2015 15:07:15 [TestLogger][  INFO]:- Browser closed successfully
+22/10/2015 15:07:15 [TestLogger][  INFO]:- Browser has no value
